@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Ahmed.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://AhmedAbdallh.com)
 
-## I'm a Sun, Brother, Brother and Developer!!
+## I'm a Sun, Brother, and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -25,7 +25,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+<!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
@@ -43,7 +43,7 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
 <br />
-<br />
+<br /> -->
 
 ---
 
