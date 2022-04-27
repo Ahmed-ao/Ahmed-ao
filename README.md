@@ -5,7 +5,7 @@
 ## I'm a Sun, Brother, and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to contribute to open source projects
 - 🥅 2022 Goals: Publish mobile apps
 - ⚡ Fun fact: I love to soccor aka football and enjoy meeting others
 
