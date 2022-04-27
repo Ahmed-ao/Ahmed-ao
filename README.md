@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Ahmed.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://AhmedAbdallh.com)
 
-## I'm a Sun, Brother, and Developer!!
+## I'm interested in programming and front-end/Mobile specifically! 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to contribute to open source projects
